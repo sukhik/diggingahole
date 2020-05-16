@@ -86,7 +86,7 @@ const Form = () => (
       </FormField>
       <FileUpload />
       <FormField>
-        <label htmlFor="cover-letter">Cover Letter</label>
+        <label htmlFor="cover-letter">Cover Message</label>
         <TextArea name="cover-letter" rows="8" />
       </FormField>
       <SubmitButton type="submit">Send</SubmitButton>
